@@ -1,12 +1,7 @@
 
-
-![Diego Guevara](https://raw.githubusercontent.com/diegoguevara/diegoguevara/master/cover.png)
-
 # Hi, I'm Diego! 👋
 
-
 I'm a software engineer form Bogotá, Colombia. Frontend dev, creator of Grabitt.co, entrepreneur and photographer. I develop great things in React, React Native, NextJS and NodeJS.
-
 
 [diegoguevara.dev](https://diegoguevara.dev)
 
@@ -22,6 +17,8 @@ In this article, we'll create a simple Serverless function with NodeJS, and then
 ### [Using Token Based Authentication (Json Web Token) on ExpressJS](https://medium.com/@diegoguevaraco/usando-token-based-authentication-json-web-token-en-expressjs-ba3dab7bc13c)
 This method has become very popular today because of its stateless approach and is therefore perfect for developing REST APIs. [read more...](https://medium.com/@diegoguevaraco/usando-token-based-authentication-json-web-token-en-expressjs-ba3dab7bc13c)
 
+
+![Diego Guevara](https://raw.githubusercontent.com/diegoguevara/diegoguevara/master/cover.png)
 
 <!--
 **diegoguevara/diegoguevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
