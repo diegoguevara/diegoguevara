@@ -1,7 +1,9 @@
 
 # Hi, I'm Diego! 👋
 
-I'm a software engineer form Bogotá, Colombia. JS Dev, creator of Grabitt.co, entrepreneur and photographer. I develop great things in React, React Native, NextJS and NodeJS.
+I'm a software engineer form Bogotá, Colombia. JS Dev, creator of Grabitt.co, entrepreneur, photographer and House music deejay 🎧
+
+Love to create great things with React, React Native, NextJS and NodeJS.
 
 [diegoguevara.dev](https://diegoguevara.dev)
 
