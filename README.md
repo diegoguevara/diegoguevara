@@ -1,5 +1,5 @@
 
-# Hi, I'm Diego! 👋
+# Hey, I'm Diego! 👋
 
 I'm a software engineer form Bogotá, Colombia. JS Dev, creator of Grabitt.co, entrepreneur, photographer and House music deejay 🎧
 
