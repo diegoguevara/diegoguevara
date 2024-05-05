@@ -5,6 +5,9 @@ I am a passionate software engineer based in Bogotá, Colombia. I'm the mind beh
 
 **Photographer** 📸 and **House music deejay** 🎧. 
 
+**Love to talk about:**    
+React-Native, Expo, React, NextJS, NodeJS, MongoDB, Vite, electron, Docker, Google Cloud Platform.
+
 ## 👾 About me
 
 My professional journey in technology has taken me across various borders and cultures, enriching my expertise and perspective as a developer. 
