@@ -1,9 +1,24 @@
 
-# Hey, I'm Diego! 👋
+# Hey, 👋 I'm Diego! 
 
-I'm a software engineer form Bogotá, Colombia. React Native, JS Dev, creator of Grabitt.co, entrepreneur, photographer and House music deejay 🎧
+I am a passionate software engineer based in Bogotá, Colombia. I'm the mind behind Grabitt.co—an an innovative platform dedicated to improving employee engagement through organizational climate surveys.
 
-Love to create great things with React, React Native, NextJS and NodeJS.
+**Photographer** 📸 and **House music deejay** 🎧. 
+
+## 👾 About me
+
+My professional journey in technology has taken me across various borders and cultures, enriching my expertise and perspective as a developer. 
+
+At the core of my technical portfolio is a profound mastery of React Native and JavaScript, complemented by substantial experience with React, NextJS, NodeJS, MongoDB Docker and Google Cloud Platform, helping me gain greater context and knowledge over the entire application architecture.
+
+I'm pround to have contributed to leading tech companies as Google in the [Google partner marketing hub](https://partnermarketinghub.withgoogle.com/) project, where I have learned a ton and not only helped me to improve my skills in developing scalable and efficient applications, but also deepened my understanding of global software practices and collaboration in diverse environments and cultures.
+
+As the founder of **Grabitt.co**, I’ve turned ideas into reality, enhancing user engagement through innovative software solutions. My entrepreneurial spirit drives me to continually seek out new challenges and create applications that not only meet but exceed user expectations.
+
+Beyond coding, I love to explore the world through my lens as a [**photographer**](https://www.instagram.com/diegoguevara) 📸 and express my creativity as a **House music deejay** 🎧. 
+
+
+## 🚀 Get in touch
 
 [diegoguevara.dev](https://diegoguevara.dev)
 
@@ -11,7 +26,7 @@ Love to create great things with React, React Native, NextJS and NodeJS.
 <a href="https://twitter.com/diegoguevaraco" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/diegoguevara/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-## Latest posts
+## 📝 My articles
 
 ### [Serverless functions with Vercel](https://dev.to/diegoguevara/serverless-functions-with-vercel-287n)
 In this article, we'll create a simple Serverless function with NodeJS, and then deploy it in Vercel. [read more...](https://dev.to/diegoguevara/serverless-functions-with-vercel-287n)
@@ -24,6 +39,8 @@ This method has become very popular today because of its stateless approach and 
 
 <!--
 **diegoguevara/diegoguevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://www.freecodecamp.org/news/create-personalized-github-profile-page/
 
 Here are some ideas to get you started:
 
