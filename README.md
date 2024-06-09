@@ -31,6 +31,9 @@ Beyond coding, I love to explore the world through my lens as a [**photographer*
 
 ## 📝 My articles
 
+### [Context Controller Pattern in React](https://medium.com/@diegoguevaraco/context-controller-pattern-in-react-399bfedfe55e)
+The Context Controller Pattern involves using a controller component within a context provider to manage side effects and shared state logic. [read more...](https://medium.com/@diegoguevaraco/context-controller-pattern-in-react-399bfedfe55e)
+
 ### [Serverless functions with Vercel](https://dev.to/diegoguevara/serverless-functions-with-vercel-287n)
 In this article, we'll create a simple Serverless function with NodeJS, and then deploy it in Vercel. [read more...](https://dev.to/diegoguevara/serverless-functions-with-vercel-287n)
 
