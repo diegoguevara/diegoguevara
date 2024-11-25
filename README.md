@@ -3,7 +3,7 @@
 
 I am a passionate software engineer based in Bogotá, Colombia. I'm the mind behind Grabitt.co—an an innovative platform dedicated to improving employee engagement through organizational climate surveys.
 
-**Photographer** 📸 and **House music deejay** 🎧. 
+**Photographer** 📸 - **House music deejay** 🎧 - **Radio amateur operator** 📻 🛰️. 
 
 **Love to talk about:**    
 React-Native, Expo, React, NextJS, NodeJS, MongoDB, Vite, electron, Docker, Google Cloud Platform.
