@@ -1,24 +1,53 @@
 
-# Hey, 👋 I'm Diego! 
+# 👋 Hey, I’m Diego
 
-I am a passionate software engineer based in Bogotá, Colombia. I'm the mind behind Grabitt.co—an an innovative platform dedicated to improving employee engagement through organizational climate surveys.
+Founder & Senior Software Engineer based in Bogotá, Colombia 🇨🇴  
 
-**Photographer** 📸 - **House music deejay** 🎧 - **Radio amateur operator** 📻 🛰️ (HJ3DAG). 
+I build cross-platform products using **React Native, Web, and NodeJS**, focusing on clean architecture, scalability, and real business impact.
 
-**Love to talk about:**    
-React-Native, Expo, React, NextJS, NodeJS, MongoDB, Vite, electron, Docker, Google Cloud Platform.
+I’m the founder of [Grabitt.co](https://grabitt.co), a SaaS platform for employee engagement and organizational climate analytics.  
+I also created [HamSpark](https://qsl.hamspark.com), a digital QSL generator and community-focused project for amateur radio operators.
 
-## 👾 About me
+I’ve contributed to large-scale international initiatives (including work within [Google’s Partner Marketing Hub](https://partnermarketinghub.withgoogle.com/) ecosystem), collaborating with distributed teams across cultures and time zones.
 
-My professional journey in technology has taken me across various borders and cultures, enriching my expertise and perspective as a developer. 
 
-At the core of my technical portfolio is a profound mastery of React Native and JavaScript, complemented by substantial experience with React, NextJS, NodeJS, MongoDB Docker and Google Cloud Platform, helping me gain greater context and knowledge over the entire application architecture.
+Photographer 📸 • House music DJ 🎧 • Amateur Radio Operator 📻 🌲 🛰️ (HJ3DAG)
 
-I'm pround to have contributed to leading tech companies as Google in the [Google partner marketing hub](https://partnermarketinghub.withgoogle.com/) project, where I have learned a ton and not only helped me to improve my skills in developing scalable and efficient applications, but also deepened my understanding of global software practices and collaboration in diverse environments and cultures.
+---
 
-As the founder of **Grabitt.co**, I’ve turned ideas into reality, enhancing user engagement through innovative software solutions. My entrepreneurial spirit drives me to continually seek out new challenges and create applications that not only meet but exceed user expectations.
+## 🛠 What I Build With
 
-Beyond coding, I love to explore the world through my lens as a [**photographer**](https://www.instagram.com/diegoguevara) 📸 and express my creativity as a **House music deejay** 🎧. 
+**Mobile:** React Native, Expo  
+**Web:** React, NextJS, Vite  
+**Backend:** NodeJS (TypeScript), Express, MongoDB  
+**Infra:** Docker, Google Cloud Platform  
+
+I enjoy designing systems end-to-end from idea and architecture to deployment and long-term evolution.
+
+### 🧠 Engineering Principles & Focus
+
+- Think product first  
+- Architect for growth  
+- Optimize cost & performance  
+- Ship fast, refactor smart  
+- Design scalable SaaS architectures  
+- Explore client-heavy PWA patterns to reduce backend costs  
+- Build tools for niche technical communities  
+- Strengthen mobile ↔ web integration patterns    
+
+---
+
+## 🎛 Outside of Code
+
+I love systems - whether they’re software systems, sound systems, or radio systems.
+
+You’ll find me:
+- Mixing house music 🎧  
+- Shooting photography 📸  
+- Experimenting with digital radio modes 📻 🛰️
+- Exploring Parks On The Air (POTA) using HF modes 🌲📻   
+
+---
 
 
 ## 🚀 Get in touch
@@ -30,6 +59,9 @@ Beyond coding, I love to explore the world through my lens as a [**photographer*
 <a href="https://www.instagram.com/diegoguevara/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ## 📝 My articles
+
+### [🚀 Client-First Architecture in Action: The QSL Generator PWA](https://www.linkedin.com/posts/diegoguevara_webdevelopment-pwa-frontend-activity-7386859661645484032-t9UN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGz86MBuait48ELKh1lb2IAldSypPh_ZXY)
+In this article, I summarize how using client-side processing and a PWA architecture can reduce server costs, boost performance, and deliver real value to users.
 
 ### [Context Controller Pattern in React](https://medium.com/@diegoguevaraco/context-controller-pattern-in-react-399bfedfe55e)
 The Context Controller Pattern involves using a controller component within a context provider to manage side effects and shared state logic. [read more...](https://medium.com/@diegoguevaraco/context-controller-pattern-in-react-399bfedfe55e)
