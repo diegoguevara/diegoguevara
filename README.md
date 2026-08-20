@@ -5,8 +5,8 @@ Founder & Senior Software Engineer based in Bogotá, Colombia 🇨🇴
 
 I build cross-platform products using **React Native, Web, and NodeJS**, focusing on clean architecture, scalability, and real business impact.
 
-I’m the founder of [Grabitt.co](https://www.grabitt.co), a SaaS platform for employee engagement and organizational climate analytics.  
-I also created [HamSpark](https://qsl.hamspark.com), a digital QSL generator and community-focused project for amateur radio operators.
+I’m the founder of [Grabitt.app](https://www.grabitt.app), a SaaS platform for employee engagement and organizational climate analytics.  
+I also created [HamSpark](https://hamspark.com), a digital QSL generator and community-focused project for amateur radio operators.  
 
 I’ve contributed to large-scale international initiatives (including work within [Google’s Partner Marketing Hub](https://partnermarketinghub.withgoogle.com/) ecosystem), collaborating with distributed teams across cultures and time zones.
 
@@ -59,7 +59,7 @@ A SaaS platform for organizational climate surveys and employee engagement. (cur
 
 **Stack:** React · NodeJS (TypeScript) · MongoDB · Docker · Google Cloud  
 
-https://www.grabitt.co
+https://www.grabitt.app
 
 
 
